@@ -1,0 +1,12 @@
+/article/:id/*	/article/:id.html	200
+/index.html	/	302
+/blog	/	302
+/blog/	/	302
+/favicon.ico	/static/favicon.ico	200
+/software/sumatrapdf*	https://www.sumatrapdfreader.org/:splat	302
+/articles/	/documents.html	302
+/articles/index.html	/documents.html	302
+/static/documents.html	/documents.html	302
+/software/index.html	/software/	302
+/articles/go-cookbook.html	/book/go-cookbook.html	200
+/articles/go-cookbook.html	/book/go-cookbook.html	200
